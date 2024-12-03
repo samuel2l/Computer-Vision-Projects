@@ -1,4 +1,4 @@
-# Beginner Computer Vision Projects with OpenCV
+#Computer Vision Projects 
 
 This repository contains a collection of beginner-friendly computer vision projects, aimed at helping you learn and practice using OpenCV, a powerful library for real-time computer vision and image processing tasks. Each project demonstrates a different aspect of computer vision, from basic image manipulation to more advanced tasks like face detection and object recognition.
 
